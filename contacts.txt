@@ -1,25 +1,29 @@
 Claire Zhang
+<<<<<<< HEAD
 Jack Vu
+=======
+Jack Vu - jacknvu98@gmail.com
+>>>>>>> master
 Shaoling Stouder shaoling.stouder@gmail.com
 Nilupar Erkin
-Wei Wang
+Wei Wang - weiwang1150@gmail.com
 Erlyn Gammad
-Jolene Jones
-Ning Yang
+Jolene Jones - jolenejoba@gmail.com
+Ning Yang - ningyang534@gmail.com
 Wenji Zou
-Shaoping Chen
-Mei Yi
+Shaoping Chen - shaoping.chen06@gmail.com
+Mei Yi - meihongyi70@gmail.com
 Anna Zhao
 Ehtibar Eziz
-Mohammed Anosh
+Mohammed Anosh - Anoshafridi@gmail.com
 Nancy Nguyen
-Olivia Wang
+Olivia Wang - Oliviawang426@gmail.com
 Jianming Wang
 Inhae Jeong
-Flora Erkin
-Yiping Chen
+Flora Erkin - fiona7744@gmail.com
+Yiping Chen - yipingchenmm@gmail.com
 Surayya Abraham
-Majid Khaleghi
+Majid Khaleghi - majid.mk399@gmail.com
 Mohammed Fdil
 Sedef Akyol
 AiChun Chiang
