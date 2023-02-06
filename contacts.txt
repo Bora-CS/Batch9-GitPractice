@@ -1,9 +1,5 @@
 Claire Zhang
-<<<<<<< HEAD
-Jack Vu
-=======
 Jack Vu - jacknvu98@gmail.com
->>>>>>> master
 Shaoling Stouder shaoling.stouder@gmail.com
 Nilupar Erkin
 Wei Wang - weiwang1150@gmail.com
