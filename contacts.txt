@@ -43,13 +43,9 @@ Flora Erkin
 Yiping Chen
 Surayya Abraham
 Majid Khaleghi
->>>>>>> mustafa
 Mohammed Fdil
 Sedef Akyol
 AiChun Chiang
 Subhinur Muhammad
-<<<<<<< HEAD
-Mustafa Wumaier
-=======
 Mustafa Wumaier - mustafawumaier@gmail.com
->>>>>>> mustafa
+
