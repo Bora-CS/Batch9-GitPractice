@@ -1,4 +1,5 @@
 Claire Zhang
+<<<<<<< HEAD
 Jack Vu - jacknvu98@gmail.com
 Shaoling Stouder
 Nilupar Erkin
@@ -20,8 +21,35 @@ Flora Erkin - fiona7744@gmail.com
 Yiping Chen - yipingchenmm@gmail.com
 Surayya Abraham
 Majid Khaleghi - majid.mk399@gmail.com
+=======
+Jack Vu
+Shaoling Stouder
+Nilupar Erkin
+Wei Wang
+Erlyn Gammad
+Jolene Jones
+Ning Yang
+Wenji Zou
+Shaoping Chen
+Mei Yi
+Anna Zhao
+Ehtibar Eziz
+Mohammed Anosh
+Nancy Nguyen
+Olivia Wang
+Jianming Wang
+Inhae Jeong
+Flora Erkin
+Yiping Chen
+Surayya Abraham
+Majid Khaleghi
+>>>>>>> mustafa
 Mohammed Fdil
 Sedef Akyol
 AiChun Chiang
 Subhinur Muhammad
+<<<<<<< HEAD
 Mustafa Wumaier
+=======
+Mustafa Wumaier - mustafawumaier@gmail.com
+>>>>>>> mustafa
