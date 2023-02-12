@@ -1,0 +1,2 @@
+Learning about Git and GitHub
+commands: git config --global user.name " zzz"; git config --global user.email "@gmail.com"; git init; gt add; git add.; git add "fileName"; git status; git commit; git commit -m "your commit message";git commit -a -m "your commit message"; git log; git log -p; git log --stat; git diff; git rm fileName; git mv oldFileName NewFileName; git commit amend: git branch; git checkout; git checkout -b branch name:git merge: git push; git pull; git fetch; 
